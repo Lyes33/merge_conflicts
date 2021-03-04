@@ -1,3 +1,4 @@
+"REMOTE"
 # merge_conflicts
 conflict management
 this repository has been created to mange the merge conflict 
